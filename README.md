@@ -6,5 +6,11 @@ Usando
 * Lombok
 * H2
 
-Crud simples que faz as funções siples de um crud 
+Crud simples que faz as funções sipls de um crud.
 sendo usado como uma API REST.
+
+# Entradas da chamadas
+* /cliente  - com os dados nome, email e cpf  usando o metodo post
+* /cliente  - listar todos os usúarios com método GET. 
+* /cliente/{id}  - Metodo deletar cliente passando como parametro o id.
+* /cliente/{id}  - Metodo upgrade para modificar cliente.
