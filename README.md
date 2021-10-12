@@ -9,7 +9,7 @@ Usando
 Crud simples que faz as funções sipls de um crud.
 sendo usado como uma API REST.
 
-# Entradas da chamadas
+# Entradas das chamadas
 * /cliente  - com os dados nome, email e cpf  usando o metodo post
 * /cliente  - listar todos os usúarios com método GET. 
 * /cliente/{id}  - Metodo deletar cliente passando como parametro o id.
